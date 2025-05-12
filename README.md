@@ -70,13 +70,16 @@ The final, cleaned dataset feeds into a **3-page dashboard** built in Looker Stu
 
 1. **📈 Time Trends**
    - Crime frequency by year, month, weekday, and hour
+![Time Analysis Dashboard](time_analysis.png)
 
 2. **👤 Demographics**
    - Victim vs. suspect breakdowns by gender, age group, and race
+![Demographics Dashboard](demographics.png)
 
 3. **🗺️ Geospatial Analysis**
    - Borough-wise heatmaps
    - Latitude/Longitude clusters
+![Geospatial Dashboard](geospatial.png)
 
 4. **🚇 Transit Safety**
    - Crimes near transit stops by time of day
